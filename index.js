@@ -52,3 +52,29 @@ var numero3= prompt( "ingresa el tercer dato")
 
 console.log(Number(numero1)+Number(numero2)+Number(numero3));
 
+
+
+// Hacer un app que se encargue de validar si la persona es apta para recibir la licencia de conducir.
+
+// Validar que el usuario haya ganado el examen teórico, práctico y tenga buena visión.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
