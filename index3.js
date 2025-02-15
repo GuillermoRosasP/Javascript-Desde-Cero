@@ -3,7 +3,7 @@
 let index = 1;
 
 
-/*while (index <= 10) {
+while (index <= 10) {
     console.log('Iteración', index);
     index++;
 }
@@ -20,7 +20,7 @@ for (let index = 1; index <= 10; index++) {
 
 const emojis = ['🌙', '🌜', '🌛', '👀', '🌞'];
 
-// console.log(emojis.length);
+console.log(emojis.length);
 
 for (let index = 0; index < emojis.length; index++) {
     console.log('Iteración', index);
@@ -41,6 +41,20 @@ for (let index = 0; index < emojis.length; index++) {
 // Si un número es múltiplo de 5, imprime "Buzz".
 // Si un número es múltiplo de 3 y de 5, imprime "FizzBuzz".
 // Si un número no es múltiplo de 3 ni de 5, simplemente imprime el número.*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
